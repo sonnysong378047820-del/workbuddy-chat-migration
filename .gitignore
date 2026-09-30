@@ -1,0 +1,6 @@
+# 同步前的旧版本地备份（git 历史本身就是回滚手段，不进公开仓库）
+skills/chat-migration-pack/*.bak
+
+# Python
+__pycache__/
+*.py[cod]
